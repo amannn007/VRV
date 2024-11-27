@@ -70,7 +70,9 @@ npm or yarn
 Installation
 Clone the repository:
 git clone https://github.com/amannn007/VRV.git
+
 cd VRV-security-assignment
+
 Install dependencies:
 npm install
 # or
