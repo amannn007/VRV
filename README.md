@@ -55,28 +55,6 @@ Technologies Used
     Debounce: For efficient handling of input events like search or form submissions.           
 
 
-PROJECT STRUCTURE
-
-    src/
-├── components/
-│   ├── forms/          # Contains login and add-user forms
-│   ├── CreatorNav/     # Navbar for creators
-│   ├── Shimmer/        # Shimmer loading effect component
-│   ├── UserNav/        # Navbar for users
-├── context/
-│   ├── AuthContext/    # Handles authentication logic
-│   ├── BlogContext/    # Manages blog-related data and actions
-├── pages/
-│   ├── Dashboard/      # Admin Dashboard
-│   ├── Following/      # Follow/unfollow creators (for users)
-│   ├── PastBlogs/      # Creator’s blog history
-│   ├── UnAuthorized/   # Unauthorized access page
-│   ├── UserDashboard/  # User dashboard showing creator posts
-│   ├── Write/          # Creator’s post-writing page
-├── utils/
-│   ├── reducer.js      # State management functions (e.g., toggling roles, adding posts)
-├── App.jsx             # Contains application routes
-├── protectedRoute.jsx  # Handles logic for protected routes
 
 
 
