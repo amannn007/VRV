@@ -25,7 +25,10 @@ Creator Features
 User Features
     View posts.
     Follow and unfollow creators.
-
+Login Details:
+Admin- admin@example.com ,admin123
+User- user@example.com,user123
+Crator- creator@example.com,creator123
 
 Features
     Admin Features
